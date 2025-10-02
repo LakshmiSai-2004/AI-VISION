@@ -1,4 +1,0 @@
-streamlit
-rembg
-pillow
-numpy
